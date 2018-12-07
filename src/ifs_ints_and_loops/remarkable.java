@@ -7,7 +7,7 @@ public class remarkable {
 		String first = JOptionPane.showInputDialog("WHAT IS UR NAME");
 
 		if (first.equals("colin")) {
-			JOptionPane.showMessageDialog(null, "You are good at xolbar!");
+			JOptionPane.showMessageDialog(null, ("are good at !"));
 
 		}
 
