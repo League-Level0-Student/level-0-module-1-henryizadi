@@ -14,9 +14,15 @@ void draw() {
 PImage bacon = loadImage("canadianbacon.ppm.gif");
 image(bacon, 300,150);
 image(bacon, 110,180);
-  
-  
-  
+image(bacon, 260,90);
+image(bacon, 400,150);
+image(bacon, 410,310);
+image(bacon, 250,310);
+image(bacon, 90,340);
+image(bacon, 400,440);
+image(bacon, 420,190);
+image(bacon, 140,400);
+image(bacon, 110,390); 
   
   
   
