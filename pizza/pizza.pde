@@ -22,7 +22,7 @@ image(bacon, 90,340);
 image(bacon, 400,440);
 image(bacon, 420,190);
 image(bacon, 140,400);
-image(bacon, 110,390); 
+image(bacon, 110,390);       
   
   
   
